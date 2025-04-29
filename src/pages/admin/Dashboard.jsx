@@ -1,6 +1,6 @@
 import React from "react";
 import AdminLayout from "../../components/layout/AdminLayout";
-import { Box, Container, Paper, Stack, Typography } from "@mui/material";
+import { Box, Container, Paper, Skeleton, Stack, Typography } from "@mui/material";
 import {
   AdminPanelSettings as AdminPanelSettingsIcon,
   Group as GroupIcon,
